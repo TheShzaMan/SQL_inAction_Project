@@ -1,5 +1,11 @@
 # SQL In Action 
 
+***************** Question 11 Response:
+
+In this market, to be a successful AirBnb it takes a lower price and a lower number of minimum nights.  Given this data, to me it seems that the listings with lower prices and lower number of nights are able to maintain high guest turnover as evident in the number of reviews data.   
+
+*****************
+
 Project problems and setup directions for the Week 6 Introduction to SQL project.
 
 Make sure you have covered enough content to meet the prerequisites before starting on this project!
